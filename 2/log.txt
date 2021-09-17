@@ -1,0 +1,4 @@
+Collecting numpy
+  Downloading numpy-1.21.2-cp39-cp39-win_amd64.whl (14.0 MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.21.2
